@@ -1,0 +1,10 @@
+fastmcp
+neo4j
+aiohttp
+langchain
+langchain-openai
+langgraph
+streamlit
+plotly
+pandas
+python-dotenv
